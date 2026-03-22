@@ -1,16 +1,21 @@
-## Hi there 👋
+💫 About Me:
+👋 Hi, I’m Mrunal Pawar
 
-<!--
-**mrunal1981/mrunal1981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on building responsive web applications using HTML, CSS, and JavaScript
+👯 I’m looking to collaborate on beginner-friendly web development and open-source projects
+🤝 I’m looking for help with improving my problem-solving skills and backend development
+🌱 I’m currently learning Java, Data Structures & Algorithms, and full-stack development
+💬 Ask me about HTML, CSS, Java basics, and portfolio website development
+⚡ Fun fact: I enjoy turning simple ideas into real web projects and continuously improving my coding skills
 
-Here are some ideas to get you started:
+🌐 Socials:
+[Facebook](https://facebook.com/Mrunal Pawar) Instagram [LinkedIn](https://linkedin.com/in/mrunal pawar) [Pinterest](https://pinterest.com/mrunal pawar) email
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack:
+C C++ Java JavaScript HTML5 CSS3 Python Netlify MySQL MongoDB Figma Riot Games Unreal Engine Xbox Steam nVIDIA
+
+📊 GitHub Stats:
+
+
+
+
